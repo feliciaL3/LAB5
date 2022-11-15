@@ -13,4 +13,6 @@ This way we can find out the money from the day in total, and the total money of
 
 *If there will be no more money, cars or drivers, the company will close.
 
+*If the company will be closed, the director will leave.
+
 *One day, randomly generated, the company can close and the simulation can stop then.
