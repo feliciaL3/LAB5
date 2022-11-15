@@ -4,6 +4,7 @@ Taxi Company.
 This way we can find out the money from the day in total, and the total money of the company and from here you can see some actions. 
 
 *If the money is less than n, a representative of the company partnerships will help the taxi company with money, and if there is more money, the taxi company will be able to call on a Marketolog who will advertise for the company. Depending on money and the number of customers, advertising can be of different types.
+
 *If the advertising will happen, the director will improve the company.
 
 *On a randomly generated day, and if the total money is more than n, the mechanics will start repairing the cars, and from the total money of the company will be removed the price of the car.
